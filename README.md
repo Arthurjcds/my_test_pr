@@ -1,1 +1,1 @@
-# my_test_pr
+# test repo for practicals
